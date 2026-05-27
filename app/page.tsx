@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import questions from "../questions.json";
+import questions from "@/questions.json";
 
 type Question = {
   id: number;
