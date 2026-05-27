@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Tell me about your journey into data and AI. What drew you to this field?",
+    "tip": "This is your moment to shine. Connect your past experience to your genuine curiosity — interviewers love an authentic origin story.",
+    "category": "transition-story"
+  },
+  {
+    "id": 2,
+    "question": "Walk me through a data pipeline or ML workflow you're proud of. What was your role in it?",
+    "tip": "Use the STAR format: Situation, Task, Action, Result. Even if the project was small, highlight what YOU specifically contributed.",
+    "category": "strengths"
+  },
+  {
+    "id": 3,
+    "question": "What's the difference between supervised and unsupervised learning — and when would you choose one over the other?",
+    "tip": "Don't just define them — show you can reason about tradeoffs. A real-world example (even a simple one) will make your answer memorable.",
+    "category": "strengths"
+  },
+  {
+    "id": 4,
+    "question": "Describe a time you had to explain a complex data concept to a non-technical stakeholder. How did you approach it?",
+    "tip": "This tests communication as much as technical skill. Show that you can translate without dumbing things down.",
+    "category": "culture-fit"
+  },
+  {
+    "id": 5,
+    "question": "How do you evaluate the quality of a dataset before using it in a model?",
+    "tip": "Think: completeness, accuracy, consistency, timeliness. Walk them through your actual checklist — interviewers respect structured thinking.",
+    "category": "strengths"
+  },
+  {
+    "id": 6,
+    "question": "Tell me about a model or analysis that didn't perform the way you expected. What did you do?",
+    "tip": "They're looking for intellectual honesty and resilience. Own the failure, then show exactly how you diagnosed and recovered.",
+    "category": "failure"
+  },
+  {
+    "id": 7,
+    "question": "What's your experience with large language models or generative AI tools in a professional context?",
+    "tip": "Be specific — name the models, tools, or APIs you've used and what you built or learned. Vague answers here won't stand out.",
+    "category": "strengths"
+  },
+  {
+    "id": 8,
+    "question": "How do you stay current in a field that changes as fast as AI?",
+    "tip": "Name specific resources — papers, communities, courses, people you follow. This shows genuine passion, not just a job-search answer.",
+    "category": "motivation"
+  },
+  {
+    "id": 9,
+    "question": "Describe your experience with SQL and working with structured data at scale.",
+    "tip": "If you can, mention a specific query optimization you did or a tricky join problem you solved. Concrete beats general.",
+    "category": "strengths"
+  },
+  {
+    "id": 10,
+    "question": "Tell me about a time you had to advocate for a data-driven decision that others were skeptical of.",
+    "tip": "Leadership shows up even without a title. Show that you can hold your ground with evidence, not just opinion.",
+    "category": "leadership"
+  },
+  {
+    "id": 11,
+    "question": "How do you think about model fairness and bias in AI systems?",
+    "tip": "This is increasingly a values question as much as a technical one. Show you've thought about real-world impact, not just accuracy metrics.",
+    "category": "culture-fit"
+  },
+  {
+    "id": 12,
+    "question": "What tools and frameworks do you reach for most often in your data engineering work, and why?",
+    "tip": "Mention your stack honestly — don't inflate it. Then explain your reasoning. \"I use X because...\" shows maturity over just listing buzzwords.",
+    "category": "strengths"
+  },
+  {
+    "id": 13,
+    "question": "Walk me through how you'd approach a brand new data problem you've never seen before.",
+    "tip": "They're testing your process, not your answer. Show systematic thinking: understand the goal, explore the data, hypothesize, iterate.",
+    "category": "strengths"
+  },
+  {
+    "id": 14,
+    "question": "Tell me about a time you had to learn something technical very quickly to meet a deadline.",
+    "tip": "Adaptability is gold in fast-moving teams. Show how you triage what to learn first and how you verify you've learned it well enough.",
+    "category": "transition-story"
+  },
+  {
+    "id": 15,
+    "question": "How do you handle disagreements with a colleague or manager about the right technical approach?",
+    "tip": "Show that you can separate ego from the work. The best answer includes a specific example where listening changed your mind — or theirs.",
+    "category": "culture-fit"
+  },
+  {
+    "id": 16,
+    "question": "What's a technical skill you're actively working to improve right now?",
+    "tip": "Be honest and specific. Interviewers respect self-awareness far more than pretending you're already an expert at everything.",
+    "category": "motivation"
+  },
+  {
+    "id": 17,
+    "question": "Describe a project where you had to balance model performance with explainability or interpretability.",
+    "tip": "This is a nuanced tradeoff. Show you understand that in regulated industries or stakeholder-facing work, explainability often matters more than a 0.5% accuracy gain.",
+    "category": "leadership"
+  },
+  {
+    "id": 18,
+    "question": "Why do you want to work at this company specifically — and what do you hope to contribute in your first 90 days?",
+    "tip": "Do your homework. Reference something real about the company's data strategy or products. Generic answers lose every time.",
+    "category": "motivation"
+  },
+  {
+    "id": 19,
+    "question": "Tell me about a time you took ownership of something that wasn't technically your responsibility.",
+    "tip": "This is a culture-fit question in disguise. Show initiative — not martyrdom. The story should end with a positive outcome, not burnout.",
+    "category": "leadership"
+  },
+  {
+    "id": 20,
+    "question": "Where do you see the biggest opportunity for AI in the industry you're targeting — and what would you build if you could?",
+    "tip": "This is your chance to show vision. Don't be shy. A bold, thoughtful answer here is remembered long after the interview ends.",
+    "category": "motivation"
+  }
+]
